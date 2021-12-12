@@ -2,9 +2,9 @@
 This repo contains links to all the machine learning projects that I have worked with and/or completed or completing.
 
 
-| No.| **Project Name** | **Type** | **Link** |
+| No.| **Project Name** | **Type** | **Link** | **Status** | 
 |--- | --- | ---- | ------------|
-|1.| Housing Price Prediction | Regression Problem |https://github.com/yagyesh-bobde/Regression-Housing-price-competition | 
+|1.| Housing Price Prediction | Regression Problem |https://github.com/yagyesh-bobde/Regression-Housing-price-competition | Only tried the linear model, so compare with other models | 
 |2.| MNIST | -Handwritten Digits. -Image **Classification**. -10 Classes | https://github.com/yagyesh-bobde/MNIST-Image-Classification | 
 |3.| Rainfall Prediction | -Binary **Classification**.  -forecasting | https://github.com/yagyesh-bobde/Forecasting_Rainfall-Prediction | 
 |4.| Titanic Survival Prediction | Binary **Classification** | https://github.com/yagyesh-bobde/Titanic-Survivor-Prediction-Kaggle-Competition | 
